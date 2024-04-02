@@ -1,5 +1,5 @@
 ## Hi there 👋 Let me introduce myself: Mithun Mallik.
-My profession is Network, Network Security & System Engineer. My working experience in Network designing, planning, implementation, maintenance, System administration, analysis, optimization, customer support, network automation, network and System monitoring, and troubleshooting.
+I am a professional specializing in Computer Networking, Network Security & System Engineer. My working experience in Network designing, planning, implementation, maintenance, System administration, analysis, optimization, customer support, network automation, network and System monitoring, and troubleshooting.
 
 ### 🔭 Currently Working on
   - Cisco [ Firewall, Router, Switch, Wireless ].

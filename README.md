@@ -2,7 +2,7 @@
 My profession is Network, Network Security & System Engineer. My working experience in Network designing, planning, implementation, maintenance, System administration, analysis, optimization, customer support, network automation, network and System monitoring, and troubleshooting.
 
 - 🔭 Currently Working on
-  - Cisco [ Firewall, Router, Switch, Wireless ]🔭
+  - Cisco [ Firewall, Router, Switch, Wireless ]
   - Mikrotik [ Router, Switch ]
   - Linux [ Redhat, Ubuntu, Debina, Kali ]
   - ESXi, VMware-Workstation, Virtualbox, Ovirt, Proxmox
@@ -38,7 +38,7 @@ My profession is Network, Network Security & System Engineer. My working experie
     - Cisco DNA Center
   - Operating system:-
     - Linux: Red Hat/ Centos/ Debian/ Ubuntu/ Kali Linux
-    - Windows: Windows Server 2016/ 2012/ 2008\
+    - Windows: Windows Server 2016/ 2012/ 2008
   - Application:-
     - DNS (Master, Slave)/ Mail server (Postfix, Zimbra)/ Web server (Apache, Tomcat and NGINX)/ WHM (cPanel)/ Tacacs +/ DHCP/ FTP/ Samba/ SNMP/ Proxy/ 
       PAM/ Free radius/ Docker/ Active Directory .....
@@ -50,7 +50,13 @@ My profession is Network, Network Security & System Engineer. My working experie
     - HP DL Series/ Dell PowerEdge Series/ Supermicro/ Cisco UCS
   - Network-Design-Application:-
     - Microsoft Visio
-    
+## 😄 MY VENDOR CERTIFICATION
+  - CCNA  [ Cisco ID: CSCO13104246 ]
+  - RHCSA [ ID: 180-047-516 ]
+  - RHCE  [ ID: 180-047-516 ]
+  - RED HAT CERTIFIED SPECIALIST IN SERVER SECURITY AND HARDENING  [ ID: 180-047-516 ]
+  - RED HAT CERTIFIED SPECIALIST IN VIRTUALIZATION  [ ID: 180-047-516 ]
+  
 - 🌱 I’m currently learning Powershell Script and Python
 - 📫 How to reach me: https://www.linkedin.com/in/mithun-mallik-48a123a4/
   

@@ -1,6 +1,9 @@
 ### Hi there 👋 I am Mithun Mallik. 
 My profession is Network & System Engineer. My working experience in Network designing, planning, implementation, maintenance, System administration, analysis, optimization, customer support, network automation, network and System monitoring, and troubleshooting.
 
+- 🔭 I’m currently working on Cisco [Router, Switch, Firewall, Wireless]
+                              Linux [Redhat, Ubuntu, Debina, Kali]
+
 
 <!--
 **mmallikpy/mmallikpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

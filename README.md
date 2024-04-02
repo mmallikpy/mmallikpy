@@ -1,13 +1,13 @@
-### Hi there 👋 Let me introduce myself: Mithun Mallik.
+## Hi there 👋 Let me introduce myself: Mithun Mallik.
 My profession is Network, Network Security & System Engineer. My working experience in Network designing, planning, implementation, maintenance, System administration, analysis, optimization, customer support, network automation, network and System monitoring, and troubleshooting.
 
-- 🔭 Currently Working on
+### 🔭 Currently Working on
   - Cisco [ Firewall, Router, Switch, Wireless ].
   - Mikrotik [ Router, Switch ].
   - Linux [ Redhat, Ubuntu, Debina, Kali ].
   - ESXi, VMware-Workstation, Virtualbox, Ovirt, Proxmox.
   - Network automation using Python.
-## AREAS OF EXPERTISE
+### AREAS OF EXPERTISE
   - Network-Device:-
   - - Cisco Routers: 1720/1800/2600/2621/2800/3600/3800/4331/4431/4451/7604
     - Cisco Switches: 2960x/ 3560/ 3750/ 4948/ Nexus 9k, 5K, 3k, 2K/ Cat-OS 9500, 9300, 9200, 6500
@@ -50,7 +50,7 @@ My profession is Network, Network Security & System Engineer. My working experie
     - HP DL Series/ Dell PowerEdge Series/ Supermicro/ Cisco UCS
   - Network-Design-Application:-
     - Microsoft Visio
-## 😄 MY VENDOR CERTIFICATION
+### 😄 MY VENDOR CERTIFICATION
   - CCNA  [ Cisco ID: CSCO13104246 ]
   - RHCSA [ ID: 180-047-516 ]
   - RHCE  [ ID: 180-047-516 ]

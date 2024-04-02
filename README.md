@@ -2,11 +2,11 @@
 My profession is Network, Network Security & System Engineer. My working experience in Network designing, planning, implementation, maintenance, System administration, analysis, optimization, customer support, network automation, network and System monitoring, and troubleshooting.
 
 - 🔭 Currently Working on
-  - Cisco [ Firewall, Router, Switch, Wireless ]
-  - Mikrotik [ Router, Switch ]
-  - Linux [ Redhat, Ubuntu, Debina, Kali ]
-  - ESXi, VMware-Workstation, Virtualbox, Ovirt, Proxmox
-  - Netowrk automation using Python
+  - Cisco [ Firewall, Router, Switch, Wireless ].
+  - Mikrotik [ Router, Switch ].
+  - Linux [ Redhat, Ubuntu, Debina, Kali ].
+  - ESXi, VMware-Workstation, Virtualbox, Ovirt, Proxmox.
+  - Network automation using Python.
 ## AREAS OF EXPERTISE
   - Network-Device:-
   - - Cisco Routers: 1720/1800/2600/2621/2800/3600/3800/4331/4431/4451/7604
@@ -17,7 +17,7 @@ My profession is Network, Network Security & System Engineer. My working experie
     - Switching: VTP/ VLAN/ PVSTP/ MSTP/ RSTP/ VPC/ Flex/ Stack/ Layer2 Security.
     - MPLS: L3VPN/ VRF/ VPLS
     - VPN: IPSEC/ GRE/ PPTP/ L2TP/ EoIP/ Anyconnect
-    - Other: VRRP/ HSRP/ Port Channel/ IPSLA/ ACL/ NAT/ PAT/ PBR/ NTP/ DHCP-Server/
+    - Other: VRRP/ HSRP/ Port Channel/ IPSLA/ ACL/ NAT/ PAT/ PBR/ NTP/ DHCP-Server
   - Next Generation Firewall:-
     - Cisco FTD: FPR-2110/2130/4110
     - Sophos: XG-210/ XG-230

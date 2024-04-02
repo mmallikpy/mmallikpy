@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Mithun Mallik. 
 My profession is Network & System Engineer. My working experience in Network designing, planning, implementation, maintenance, System administration, analysis, optimization, customer support, network automation, network and System monitoring, and troubleshooting.
 
-- 🔭 I’m currently working on Cisco [Router, Switch, Firewall, Wireless]
-                              Linux [Redhat, Ubuntu, Debina, Kali]
+- 🔭 I’m currently working on Cisco [Firewall, Router, Switch,Wireless]
+- 🔭 I’m currently working on Linux [Redhat, Ubuntu, Debina, Kali]
 
 
 <!--

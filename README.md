@@ -3,6 +3,7 @@ I am a professional specializing in Computer Networking, Network Security & Syst
 
 ### 🔭 Currently Working on
   - Cisco [ Firewall, Router, Switch, Wireless ].
+  - Palo Alto: PA-1410
   - Mikrotik [ Router, Switch ].
   - Linux [ Redhat, Ubuntu, Debina, Kali ].
   - ESXi, VMware-Workstation, Virtualbox, Ovirt, Proxmox.
@@ -20,15 +21,15 @@ I am a professional specializing in Computer Networking, Network Security & Syst
     - Other: VRRP/ HSRP/ Port Channel/ IPSLA/ ACL/ NAT/ PAT/ PBR/ NTP/ DHCP-Server
   - Next Generation Firewall:-
     - Palo Alto: PA-1410 
-    - Cisco FTD: FPR-2110/2130/4110
+    - Cisco FTD: FPR-2110/2130/3120/4110
     - Sophos: XG-210/ XG-230
+    - Meraki: Firewall MX-100
   - Security Domain:-
     - Cisco ISE: MAB, NAC, posture, Tac+
     - VA Tools: Nessus, NMAP
     - SIEM: Wazuh
-    - Endpoint: Cisco AMP, Sophos
+    - Endpoint: Cisco AMP, Sophos, Cortex
   - Software Define Wide Area Network:-
-    - Meraki: Firewall MX-100
     - Meraki AP: AP MR-33, MR-42
   - Network Automation:-
     - Python
@@ -44,7 +45,7 @@ I am a professional specializing in Computer Networking, Network Security & Syst
     - DNS (Master, Slave)/ Mail server (Postfix, Zimbra)/ Web server (Apache, Tomcat and NGINX)/ WHM (cPanel)/ Tacacs +/ DHCP/ FTP/ Samba/ SNMP/ Proxy/ 
       PAM/ Free radius/ Docker/ Active Directory .....
   - Monitoring Tools:-
-    - Observium/ MRTG/ NFSEN/ Cacti/ Nagios/ Zabbix/ Solarwinds (Orion) etc.
+  - Grafana with Prometheus/ Observium/ MRTG/ NFSEN/ Cacti/ Nagios/ Zabbix/ Solarwinds (Orion) etc.
   - Virtualization:-
     - ESXI-5.0 – 7.0/ vCenter-6.0 - 7.0/ VMware Workstation / Oracle VM VirtualBox
   - Hardware Server:-

@@ -19,6 +19,7 @@ I am a professional specializing in Computer Networking, Network Security & Syst
     - VPN: IPSEC/ GRE/ PPTP/ L2TP/ EoIP/ Anyconnect
     - Other: VRRP/ HSRP/ Port Channel/ IPSLA/ ACL/ NAT/ PAT/ PBR/ NTP/ DHCP-Server
   - Next Generation Firewall:-
+    - Palo Alto: PA-1410 
     - Cisco FTD: FPR-2110/2130/4110
     - Sophos: XG-210/ XG-230
   - Security Domain:-

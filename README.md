@@ -10,7 +10,7 @@ I am a professional specializing in Computer Networking, Network Security & Syst
   - Network automation using Python.
 ### 😄 AREAS OF EXPERTISE
   - Network-Device:-
-  - - Cisco Routers: 1720/1800/2600/2621/2800/3600/3800/4331/4431/4451/7604
+    - Cisco Routers: 1720/1800/2600/2621/2800/3600/3800/4331/4431/4451/7604
     - Cisco Switches: 2960x/ 3560/ 3750/ 4948/ Nexus 9k, 5K, 3k, 2K/ Cat-OS 9500, 9300, 9200, 6500
     - Mikrotik Router: CCR1072/ CCR1036/ CCR 1009/ x86/ CHR
   - Network-Protocol:-
@@ -45,7 +45,7 @@ I am a professional specializing in Computer Networking, Network Security & Syst
     - DNS (Master, Slave)/ Mail server (Postfix, Zimbra)/ Web server (Apache, Tomcat and NGINX)/ WHM (cPanel)/ Tacacs +/ DHCP/ FTP/ Samba/ SNMP/ Proxy/ 
       PAM/ Free radius/ Docker/ Active Directory .....
   - Monitoring Tools:-
-  - Grafana with Prometheus/ Observium/ MRTG/ NFSEN/ Cacti/ Nagios/ Zabbix/ Solarwinds (Orion) etc.
+    - Grafana with Prometheus/ Observium/ MRTG/ NFSEN/ Cacti/ Nagios/ Zabbix/ Solarwinds (Orion) etc.
   - Virtualization:-
     - ESXI-5.0 – 7.0/ vCenter-6.0 - 7.0/ VMware Workstation / Oracle VM VirtualBox
   - Hardware Server:-
